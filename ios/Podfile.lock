@@ -1,0 +1,34 @@
+PODS:
+  - aeyrium_sensor (1.0.0):
+    - Flutter
+  - all_sensors (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - motion_sensors (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - aeyrium_sensor (from `.symlinks/plugins/aeyrium_sensor/ios`)
+  - all_sensors (from `.symlinks/plugins/all_sensors/ios`)
+  - Flutter (from `Flutter`)
+  - motion_sensors (from `.symlinks/plugins/motion_sensors/ios`)
+
+EXTERNAL SOURCES:
+  aeyrium_sensor:
+    :path: ".symlinks/plugins/aeyrium_sensor/ios"
+  all_sensors:
+    :path: ".symlinks/plugins/all_sensors/ios"
+  Flutter:
+    :path: Flutter
+  motion_sensors:
+    :path: ".symlinks/plugins/motion_sensors/ios"
+
+SPEC CHECKSUMS:
+  aeyrium_sensor: cdaa0bdd7206824ea4fb910c627cad05275362e5
+  all_sensors: 13f46502204bebbd1e06b65ff3d7cdaa03d88b26
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  motion_sensors: 03f55b7c637a7e365a0b5f9697a449f9059d5d91
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
